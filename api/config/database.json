@@ -1,11 +1,10 @@
 {
   "development": {
     "username": "root",
-    "password": "ogatoroeu",
-    "database": "escola_ingles",
+    "password": null,
+    "database": "database_development",
     "host": "127.0.0.1",
-    "dialect": "mysql",
-    "operatorAliases": false
+    "dialect": "mysql"
   },
   "test": {
     "username": "root",
